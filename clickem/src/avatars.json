@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tracer",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/3/3e/Icon-tracer.png?version=355cc09f5fe14aa946f7625ff9ae4a40"
+  },
+  {
+    "id": 2,
+    "name": "Widowmaker",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/b/b1/Icon-widowmaker.png?version=fa8da6c5cae61fdb13c869d868242aea"
+  },
+  {
+    "id": 3,
+    "name": "Orisa",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/a/a4/Icon-orisa.png?version=25bbc92654b87b23ffcd873caf6aaf44"
+  },
+  {
+    "id": 4,
+    "name": "McCree",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/6/64/Icon-mccree.png?version=21a1db79fdeaa43c54fc3aaf09deea2f"
+  },
+  {
+    "id": 5,
+    "name": "Lucio",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/6/66/Icon-Lucio.png?version=647a6c7f0fc550692b1cc585fdb5c517"
+  },
+  {
+    "id": 6,
+    "name": "Reaper",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/0/08/Icon-reaper.png?version=afbe3554288d00fbdc619e473f88604a"
+  },
+  {
+    "id": 7,
+    "name": "Zenyatta",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/9/91/Icon-zenyatta.png?version=37c658282ecfb337e40d1d83ee29f1f3"
+  },
+  {
+    "id": 8,
+    "name": "Brigitte",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/a/ac/Icon-brigitte.png?version=35e3aa7553e744334205ebd0710bf384"
+  },
+  {
+    "id": 9,
+    "name": "Winston",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/2/28/Icon-winston.png?version=c5417e7ef4e41e1d30baa01bc72f4296"
+  },
+  {
+    "id": 10,
+    "name": "Hanzo",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/b/b1/Icon-hanzo.png?version=295b593587b1ea3c8b795ffdf0c4a38c"
+  },
+  {
+    "id": 11,
+    "name": "Reinhardt",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/c/cc/Icon-reinhardt.png?version=b07d6766a1686951e0a36ee8cdb3eb76"
+  },
+  {
+    "id": 12,
+    "name": "Pharah",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/overwatch_gamepedia/f/f3/Icon-pharah.png?version=a129f1d3fbcb8de870a6e3e861b8a463"
+  }
+]
